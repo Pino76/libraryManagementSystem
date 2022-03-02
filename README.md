@@ -1,2 +1,2 @@
-# libraryManagementSystem
-library management system developed with laravel
+# Library Management System developed with laravel
+
